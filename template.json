@@ -1,0 +1,488 @@
+{
+
+      "Electric Pump": {
+            "ru_name": "Электрическая помпа",
+            "eng_name": "Electric Pump"
+      },
+      "Electric Motor": {
+            "ru_name": "Электрический мотор",
+            "eng_name": "Electric Motor"
+      },
+      "Conveyor Module": {
+            "ru_name": "Конвейерный модуль",
+            "eng_name": "Conveyor Module"
+      },
+      "Electric Piston": {
+            "ru_name": "Электрический поршень",
+            "eng_name": "Electric Piston"
+      },
+      "Robot Arm": {
+            "ru_name": "Роботизированая рука",
+            "eng_name": "Robot Arm"
+      },
+      "Field Generator": {
+            "ru_name": "Генератор поля",
+            "eng_name": "Field Generator"
+      },
+      "Emitter": {
+            "ru_name": "Излучатель",
+            "eng_name": "Emitter"
+      },
+      "Sensor": {
+            "ru_name": "Датчик",
+            "eng_name": "Sensor"
+      },
+      "Reusable": {
+            "ru_name": "Многоразовое",
+            "eng_name": "Reusable"
+      },
+      "Overflow Valve": {
+            "ru_name": "Перепускной клапан",
+            "eng_name": "Overflow Valve"
+      },
+
+      "1,1-Dimethylhydrazine": {
+            "ru_name": "1,1-Диметилгидразин",
+            "eng_name": "1,1-Dimethylhydrazine"
+      },
+      "2-Nitrochlorobenzene": {
+            "ru_name": "2-Нитрохлорбензол",
+            "eng_name": "2-Nitrochlorobenzene"
+      },
+      "3,3-Diaminobenzidine": {
+            "ru_name": "3,3-Диаминобензидин",
+            "eng_name": "3,3-Diaminobenzidine"
+      },
+      "3,3-Dichlorobenzidine": {
+            "ru_name": "3,3-Дихлорбензидин",
+            "eng_name": "3,3-Dichlorobenzidine"
+      },
+      "Amber": {
+            "ru_name": "Янтарь",
+            "eng_name": "Amber"
+      },
+      "Americium": {
+            "ru_name": "Америций",
+            "eng_name": "Americium"
+      },
+      "Ammonia": {
+            "ru_name": "Аммиак",
+            "eng_name": "Ammonia"
+      },
+      "Ammonium": {
+            "ru_name": "Аммоний",
+            "eng_name": "Ammonium"
+      },
+      "Apatite": {
+            "ru_name": "Апатит",
+            "eng_name": "Apatite"
+      },
+      "Arsenic": {
+            "ru_name": "Мышьяк",
+            "eng_name": "Arsenic"
+      },
+      "Bio": {
+            "ru_name": "Био",
+            "eng_name": "Bio"
+      },
+      "Charcoal Byproducts": {
+            "ru_name": "Субпродукты с древесного угля",
+            "eng_name": "Charcoal Byproducts"
+      },
+      "Cheese": {
+            "ru_name": "Сыр",
+            "eng_name": "Cheese"
+      },
+      "Chrome": {
+            "ru_name": "Хром",
+            "eng_name": "Chrome"
+      },
+      "Chromo-Alumino-Povondraite": {
+            "ru_name": "Хромо-алюмо-повондраитовый",
+            "eng_name": "Chromo-Alumino-Povondraite"
+      },
+      "Clay": {
+            "ru_name": "Глина",
+            "eng_name": "Clay"
+      },
+      "Coal": {
+            "ru_name": "Уголь",
+            "eng_name": "Coal"
+      },
+      "Copper": {
+            "ru_name": "Медь",
+            "eng_name": "Copper"
+      },
+      "Cryolite": {
+            "ru_name": "Криолит",
+            "eng_name": "Cryolite"
+      },
+      "Desh": {
+            "ru_name": "Дэш",
+            "eng_name": "Desh"
+      },
+      "Diamond": {
+            "ru_name": "Алмаз",
+            "eng_name": "Diamond"
+      },
+      "Diphenyl Isophtalate": {
+            "ru_name": "Дифенил изофталат",
+            "eng_name": "Diphenyl Isophtalate"
+      },
+      "Electrotine": {
+            "ru_name": "Електротин",
+            "eng_name": "Electrotine"
+      },
+      "Emerald": {
+            "ru_name": "Изумруд",
+            "eng_name": "Emerald"
+      },
+      "Anti-Knock Agent": {
+            "ru_name": "Противоударное средство",
+            "eng_name": "Anti-Knock Agent"
+      },
+      "Firestone": {
+            "ru_name": "Огненный камень",
+            "eng_name": "Firestone"
+      },
+      "Fish Oil": {
+            "ru_name": "Рыбий жир",
+            "eng_name": "Fish Oil"
+      },
+      "Naquadah Fuel": {
+            "ru_name": "Наквадаховое топливо",
+            "eng_name": "Naquadah Fuel"
+      },
+      "Fluix": {
+            "ru_name": "Флюкс",
+            "eng_name": "Fluix"
+      },
+      "Fluor-Buergerite": {
+            "ru_name": "Фтор-бургерит",
+            "eng_name": "Fluor-Buergerite"
+      },
+      "Ruby": {
+            "ru_name": "Рубин",
+            "eng_name": "Ruby"
+      },
+      "Diesel": {
+            "ru_name": "Дизель",
+            "eng_name": "Diesel"
+      },
+      "Refinery Gas": {
+            "ru_name": "Очищенный газ",
+            "eng_name": "Refinery Gas"
+      },
+      "Glyceryl Trinitrate": {
+            "ru_name": "Глицерил тринитрат",
+            "eng_name": "Glyceryl Trinitrate"
+      },
+      "Gold": {
+            "ru_name": "Золото",
+            "eng_name": "Gold"
+      },
+      "Heavy Fuel": {
+            "ru_name": "Тяжелое топливо",
+            "eng_name": "Heavy Fuel"
+      },
+      "Endium": {
+            "ru_name": "Эндиум",
+            "eng_name": "Endium"
+      },
+      "Helium-3": {
+            "ru_name": "Гелий-3",
+            "eng_name": "Helium-3"
+      },
+      "Hydrogen Sulfide": {
+            "ru_name": "Сероводород",
+            "eng_name": "Hydrogen Sulfide"
+      },
+      "Hydrogen Peroxide": {
+            "ru_name": "Перекись водорода",
+            "eng_name": "Hydrogen Peroxide"
+      },
+      "Infinity": {
+            "ru_name": "Инфинити",
+            "eng_name": "Infinity"
+      },
+      "Iridium": {
+            "ru_name": "Иридий",
+            "eng_name": "Iridium"
+      },
+      "Iron": {
+            "ru_name": "Железо",
+            "eng_name": "Iron"
+      },
+      "Isoprene": {
+            "ru_name": "Изопрен",
+            "eng_name": "Isoprene"
+      },
+      "Isopropylbenzene": {
+            "ru_name": "Кумол",
+            "eng_name": "Isopropylbenzene"
+      },
+      "Lapis": {
+            "ru_name": "Ляпис",
+            "eng_name": "Lapis"
+      },
+      "Lead": {
+            "ru_name": "Свинец",
+            "eng_name": "Lead"
+      },
+      "Ledox": {
+            "ru_name": "Ледокс",
+            "eng_name": "Ledox"
+      },
+      "Life": {
+            "ru_name": "Жизненная эссенция",
+            "eng_name": "Life"
+      },
+      "Light Fuel": {
+            "ru_name": "Лёгкое топливо",
+            "eng_name": "Light Fuel"
+      },
+      "Light Radox": {
+            "ru_name": "Легкий радокс",
+            "eng_name": "Light Radox"
+      },
+      "Lithium": {
+            "ru_name": "Литий",
+            "eng_name": "Lithium"
+      },
+      "LPG": {
+            "ru_name": "LPG",
+            "eng_name": "LPG"
+      },
+      "Lutetium": {
+            "ru_name": "Лютеций",
+            "eng_name": "Lutetium"
+      },
+      "Manganese": {
+            "ru_name": "Марганец",
+            "eng_name": "Manganese"
+      },
+      "Mc Guffium 239": {
+            "ru_name": "Мс Гуффиум 239",
+            "eng_name": "Mc Guffium 239"
+      },
+      "Mercury": {
+            "ru_name": "Ртуть",
+            "eng_name": "Mercury"
+      },
+      "Mithril": {
+            "ru_name": "Митрил",
+            "eng_name": "Mithril"
+      },
+      "Monomethylhydrazine": {
+            "ru_name": "Монометилгидразин",
+            "eng_name": "Monomethylhydrazine"
+      },
+      "Mytryl": {
+            "ru_name": "Мифрил",
+            "eng_name": "Mytryl"
+      },
+      "Naquadria": {
+            "ru_name": "Наквадрия",
+            "eng_name": "Naquadria"
+      },
+      "Nickel": {
+            "ru_name": "Никель",
+            "eng_name": "Nickel"
+      },
+      "Nitration Mixture": {
+            "ru_name": "Нитрационная смесь",
+            "eng_name": "Nitration Mixture"
+      },
+      "Cetane-Boosted Diesel": {
+            "ru_name": "Дизель с цетановым усилением",
+            "eng_name": "Cetane-Boosted Diesel"
+      },
+      "Nitrogen Dioxide": {
+            "ru_name": "Оксид азота",
+            "eng_name": "Nitrogen Dioxide"
+      },
+      "Noble Gases": {
+            "ru_name": "Благородные газы",
+            "eng_name": "Noble Gases"
+      },
+      "Oil": {
+            "ru_name": "Нефть",
+            "eng_name": "Oil"
+      },
+      "Heavy Oil": {
+            "ru_name": "Тяжелая нефть",
+            "eng_name": "Heavy Oil"
+      },
+      "Light Oil": {
+            "ru_name": "Легкая нефть",
+            "eng_name": "Light Oil"
+      },
+      "Olivine": {
+            "ru_name": "Оливин",
+            "eng_name": "Olivine"
+      },
+      "Oriharukon": {
+            "ru_name": "Орихарукон",
+            "eng_name": "Oriharukon"
+      },
+      "Osmium": {
+            "ru_name": "Осмий",
+            "eng_name": "Osmium"
+      },
+      "Peat": {
+            "ru_name": "Арахис",
+            "eng_name": "Peat"
+      },
+      "Polyethylene": {
+            "ru_name": "Полиэтилен",
+            "eng_name": "Polyethylene"
+      },
+      "Platinum": {
+            "ru_name": "Платина",
+            "eng_name": "Platinum"
+      },
+      "Plutonium 239": {
+            "ru_name": "Плутоний 239",
+            "eng_name": "Plutonium 239"
+      },
+      "Pyrotheum": {
+            "ru_name": "Пиротеум",
+            "eng_name": "Pyrotheum"
+      },
+      "Quantium": {
+            "ru_name": "Квантиум",
+            "eng_name": "Quantium"
+      },
+      "Radox Polymer": {
+            "ru_name": "Полимер из радокса",
+            "eng_name": "Radox Polymer"
+      },
+      "Raw Gasoline": {
+            "ru_name": "Неочищенный Газолин",
+            "eng_name": "Raw Gasoline"
+      },
+      "Raw Radox": {
+            "ru_name": "Неочищенный Радокс",
+            "eng_name": "Raw Radox"
+      },
+      "Redstone": {
+            "ru_name": "Красная пыль",
+            "eng_name": "Redstone"
+      },
+      "Molten Reinforced Glass": {
+            "ru_name": "Жидкое Армированное стекло",
+            "eng_name": "Molten Reinforced Glass"
+      },
+      "Rock Salt": {
+            "ru_name": "Каменная соль",
+            "eng_name": "Rock Salt"
+      },
+      "Salt": {
+            "ru_name": "Соль",
+            "eng_name": "Salt"
+      },
+      "Sapphire": {
+            "ru_name": "Сапфир",
+            "eng_name": "Sapphire"
+      },
+      "Seed Oil": {
+            "ru_name": "Растительное масло",
+            "eng_name": "Seed Oil"
+      },
+      "Silver": {
+            "ru_name": "Серебро",
+            "eng_name": "Silver"
+      },
+      "Sodium Persulfate": {
+            "ru_name": "Персульфат натрия",
+            "eng_name": "Sodium Persulfate"
+      },
+      "Spodumene": {
+            "ru_name": "Сподумен",
+            "eng_name": "Spodumene"
+      },
+      "Steel": {
+            "ru_name": "Сталь",
+            "eng_name": "Steel"
+      },
+      "Sulfuric Acid": {
+            "ru_name": "Серная кислота",
+            "eng_name": "Sulfuric Acid"
+      },
+      "Sulfuric Gas": {
+            "ru_name": "Серный газ",
+            "eng_name": "Sulfuric Gas"
+      },
+      "Sulfuric Heavy Fuel": {
+            "ru_name": "Сернистое тяжелое топливо",
+            "eng_name": "Sulfuric Heavy Fuel"
+      },
+      "Sulfuric Light Fuel": {
+            "ru_name": "Сернистое легкое топливо",
+            "eng_name": "Sulfuric Light Fuel"
+      },
+      "Sulfuric Naphtha": {
+            "ru_name": "Сернистая нафта",
+            "eng_name": "Sulfuric Naphtha"
+      },
+      "Sulfur Trioxide": {
+            "ru_name": "Триоксид серы",
+            "eng_name": "Sulfur Trioxide"
+      },
+      "Super Coolant": {
+            "ru_name": "Супер охладитель",
+            "eng_name": "Super Coolant"
+      },
+      "Super Heavy Radox": {
+            "ru_name": "Сверхтяжелый Радокс",
+            "eng_name": "Super Heavy Radox"
+      },
+      "Super Light Radox": {
+            "ru_name": "Сверхлегкий Радокс",
+            "eng_name": "Super Light Radox"
+      },
+      "Thorium": {
+            "ru_name": "Торий",
+            "eng_name": "Thorium"
+      },
+      "Thorium Tetrafluoride": {
+            "ru_name": "Тетрафторид тория",
+            "eng_name": "Thorium Tetrafluoride"
+      },
+      "Tiberium": {
+            "ru_name": "Тибериум",
+            "eng_name": "Tiberium"
+      },
+      "Tin": {
+            "ru_name": "Олово",
+            "eng_name": "Tin"
+      },
+      "Titanium": {
+            "ru_name": "Титан",
+            "eng_name": "Titanium"
+      },
+      "Trinium": {
+            "ru_name": "Триний",
+            "eng_name": "Trinium"
+      },
+      "Tungsten": {
+            "ru_name": "Вольфрам",
+            "eng_name": "Tungsten"
+      },
+      "Uranium 238": {
+            "ru_name": "Уран 238",
+            "eng_name": "Uranium 238"
+      },
+      "Vanadio-Oxy-Dravite": {
+            "ru_name": "Ванадио-окси-дравит",
+            "eng_name": "Vanadio-Oxy-Dravite"
+      },
+      "Wood Tar": {
+            "ru_name": "Древесная дёготь",
+            "eng_name": "Wood Tar"
+      },
+      "Xenoxene": {
+            "ru_name": "Ксеноксен",
+            "eng_name": "Xenoxene"
+      }
+}
