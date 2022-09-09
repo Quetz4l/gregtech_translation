@@ -1,0 +1,74 @@
+
+# << creative tab name >>
+itemGroup.warptheory.tab=Теория Варпа
+
+# << chat item effects >>
+chat.warptheory.purge = У вас плохое предчувствие по этому поводу ...
+chat.warptheory.purgefail = Ничего особенного не происходит
+chat.warptheory.addwarp = Такое ощущение, что что-то странное скользнуло по вам ...
+chat.warptheory.minorwarp = Нет реакции
+chat.warptheory.averagewarp = Бумага становится болезненным цветом
+chat.warptheory.majorwarp = Бумага рассыпается в пыль
+chat.warptheory.deadlywarp = Бумага загорается
+chat.warptheory.permanentwarp = Постоянный Варп
+chat.warptheory.normalwarp = Обычный Варп
+chat.warptheory.tempwarp = Временный Варп
+
+
+# << Item names >>
+item.warptheory.cleanser.name = Чистая слеза
+item.warptheory.amulet.name = Очищающий талисман
+item.warptheory.something.name = Кусок чего-то
+item.warptheory.paper.name = Тайная бумага лакмуса
+
+# << tooltips >>
+tooltip.warptheory.cleanser = Хрустящий
+tooltip.warptheory.amulet = Чистка Варпа
+tooltip.warptheory.something = Возможно съедобное ...
+tooltip.warptheory.paper = Реагирует на Варп
+
+
+# << hunk of something >>
+c.research_name.warptheory.something = Кусок чего-то
+tc.research_text.warptheory.something = Определенно не что-то приятное
+research.warptheory.warpsomething = Случайно вы поняли, что многие простые мясные продукты могут быть превращены во что-то другое, если они подвергаются воздействию энергии полевого удара. Это ... вероятно, не очень хорошая идея, чтобы посмотреть слишком внимательно на результат.
+
+# << pure tear >>
+tc.research_name.warptheory.cleanser = Чистая слеза
+tc.research_text.warptheory.cleanser = Магическая медицина
+research.warptheory.warpcleanser = Объединив лечебные свойства Слёз гаста, магическую энергию Salis Mundus и стабилизирующие свойства кристаллов, вы открыли способ очищения тела от отрицательной магической энергии. <BR> Процесс не без недостатков, так как вся эта энергия должна куда-то уходить.
+
+# << purification talisman >>
+tc.research_name.warptheory.amulet = Талисман очищения
+tc.research_text.warptheory.amulet = Больше чем просто талисман удачи
+research.warptheory.amulet = Вы обнаружили процесс, с помощью которого очищающие свойства Чистых Слез со временем могут быть направлены без необходимого расстройства желудка, которое они вызывают. <BR> Просто поместив две противоположные слезы в амулет и наполняя его определенной магией создается аксессуар, который непрерывно откачивает отрицательную магическую энергию в окружающую среду.
+
+<< litmus paper >>
+tc.research_name.warptheory.paper = Тайная бумага лакмуса
+tc.research_text.warptheory.paper = Почти научный
+research.warptheory.paper = Вы решили, что вам нужно что-то более точное, чем подсчет странных событий, происходящих вокруг вас, чтобы измерить накопление отрицательной магической энергии в вашем теле. <BR> Наполняя какую-то бумагу Салисом Мундусом и сущность воды, вы создали средство, чтобы узнать, насколько опасно вы подвергаетесь.
+
+# << chat warp effects >>
+chat.warptheory.bats = Звуки ударов крыла наполняют воздух ...
+chat.warptheory.blink = Вы вдруг чувствуете себя дезориентированным ...
+chat.warptheory.poison = Ваши вены загораются ...
+chat.warptheory.nausea = Вы чувствуете тошноту в желудке ...
+chat.warptheory.jump = Вы чувствуете себя намного легче ...
+chat.warptheory.blind = Все становится темным ...
+chat.warptheory.decay = Вы чувствуете себя намного старше ...
+chat.warptheory.ears = Ваши уши начинают звонить ...
+chat.warptheory.swamp = Вы чувствуете себя оживленным ...
+chat.warptheory.tongue = Ваш язык немеет ...
+chat.warptheory.friend = Вы чувствуете себя немного одиноко ...
+chat.warptheory.livestock = Вы чувствуете себя немного голодным ...
+chat.warptheory.wind = Странный ветер поднимается ...
+chat.warptheory.chests = Холод течет по позвоночнику ...
+chat.warptheory.blood = Вы чувствуете что-то внутреннее ...
+chat.warptheory.acceleration = Что-то кажется быстрее ...
+chat.warptheory.lightning = Ваши волосы дыбом ...
+chat.warptheory.fall = Вы внезапно чувствуете головокружение ...
+chat.warptheory.rain = Вы слышите гул на расстоянии ...
+chat.warptheory.wither = Вы чувствуете себя пораженным страхом ..
+
+# << Research stuff >>
+tc.research_category.WT_Category=Теория Варпа
