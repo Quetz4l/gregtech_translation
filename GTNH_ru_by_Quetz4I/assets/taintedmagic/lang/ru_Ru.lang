@@ -73,18 +73,18 @@ item.ItemVoidwalkerBoots.name=Сапоги Пустотного странник
 item.ItemWarpedGoggles.name=Искаженные очки разоблачения
 item.ItemVoidmetalGoggles.name=Пустотные очки разоблачения
 
-item.ItemKatana.0.name=Таумиевый клинок крепости
-item.ItemKatana.1.name=Клинок крепости Пустоты
-item.ItemKatana.2.name=Клинок Теневой Крепости
+item.ItemKatana.0.name=Клинок таумиевый крепости
+item.ItemKatana.1.name=Клинок пустотной крепости
+item.ItemKatana.2.name=Клинок теневой Крепости
 text.katana.inscription.0=Вулканическая надпись
 text.katana.inscription.1=Запятнанная надпись
 text.katana.inscription.2=Неживая надпись
 
-item.ItemVoidFortressHelmet.name=Шлем крепости Пустоты
-item.ItemVoidFortressChestplate.name=Кираса крепости Пустоты
-item.ItemVoidFortressLeggings.name=Набедренные щитки крепости Пустоты
+item.ItemVoidFortressHelmet.name=Шлем пустотной крепости
+item.ItemVoidFortressChestplate.name=Кираса пустотной крепости
+item.ItemVoidFortressLeggings.name=Набедренные щитки пустотной крепости
 
-item.ItemThaumicDisassembler.name=Тхаумический дизассемблер
+item.ItemThaumicDisassembler.name=Таумический разрушитель
 text.mode=Режим
 text.efficiency=Эффективность
 text.disassembler.normal=Нормальный
@@ -93,17 +93,17 @@ text.disassembler.slow=Медленно
 text.disassembler.off=Отключено
 text.modeToggle=Режим переключения
 
-item.ItemShadowmetalPick.name=Теневая металлическая кирка
-item.ItemShadowmetalAxe.name=Шадоуметаллическая секира
-item.ItemShadowmetalHoe.name=Теневая мотыга
+item.ItemShadowmetalPick.name=Кирка из теневого металла
+item.ItemShadowmetalAxe.name=Топор из теневого металла
+item.ItemShadowmetalHoe.name=Мотыга из теневого металла
 item.ItemShadowmetalSpade.name=Лопата из теневого металла
-item.ItemShadowmetalSword.name=Шадоуметаллический меч
+item.ItemShadowmetalSword.name=Меч из теневого металла
 
-item.ItemPrimordialEdge.name=Копьё Изначальных
+item.ItemPrimordialEdge.name=Оружие изначальности
 
-item.ItemShadowFortressHelmet.name=Шлем Сумеречной Крепости
-item.ItemShadowFortressChestplate.name=Кираса Теневой Крепости
-item.ItemShadowFortressLeggings.name=Набедренные щитки Сумеречной крепости
+item.ItemShadowFortressHelmet.name=Шлем теневой Крепости
+item.ItemShadowFortressChestplate.name=Кираса теневой Крепости
+item.ItemShadowFortressLeggings.name=Поножи теневой Крепости
 
 #===========WAND NAMES===================
 
@@ -186,7 +186,7 @@ tm.text.CRIMSONROBES.1=После изучения Кристальной кро
 
 #VOIDFORTRESS
 
-tm.name.VOIDFORTRESS=Доспехи крепости Пустоты
+tm.name.VOIDFORTRESS=Доспехи теневой крепости
 tm.tag.VOIDFORTRESS=Ничего не выходит
 tm.text.VOIDFORTRESS.1=Это простое усовершенствование концепций, заложенных при создании крепостных доспехов. Используя Пустотный металл  вместо таумиума, вы не только увеличиваете эффективность доспехов, но и их прочность.<BR>Конечно, некоторые люди утверждают, что носить такое большое количество металла Пустоты, вероятно, не очень хорошо, но всегда найдутся сомневающиеся, и их следует игнорировать. Как и обычная крепостная броня, эта броня может быть усилена различными накладками и модификациями. 
 
