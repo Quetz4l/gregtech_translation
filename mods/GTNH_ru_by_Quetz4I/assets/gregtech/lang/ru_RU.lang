@@ -1,0 +1,23 @@
+# Multiblock Tooltip Builder Keywords
+# Context can be found in the class gregtech.api.util.GT_Multiblock_Tooltip_Builder
+GT5U.MBTT.MachineType=Тип машины: 
+GT5U.MBTT.Dimensions=Размер
+GT5U.MBTT.Hollow=(Полый)
+GT5U.MBTT.Structure=Структура
+GT5U.MBTT.Controller=Контроллер
+GT5U.MBTT.Minimum=(Минимум)
+GT5U.MBTT.MaintenanceHatch=Люк обслуживания
+GT5U.MBTT.MufflerHatch=Глушитель
+GT5U.MBTT.EnergyHatch=Приёмник электроэнергии
+GT5U.MBTT.DynamoHatch=Энерголюк
+GT5U.MBTT.InputBus=Входной люк
+GT5U.MBTT.InputHatch=Входной шлюз
+GT5U.MBTT.OutputBus=Выходной люк
+GT5U.MBTT.OutputHatch=Выходной шлюз
+GT5U.MBTT.Causes=Производит
+GT5U.MBTT.PPS=загрязнения в сек.
+GT5U.MBTT.Hold=Удерживайте
+GT5U.MBTT.Display=чтобы отобразить требования к структуре
+GT5U.MBTT.StructureHint=Some blocks have multiple candidates or can use any tier
+GT5U.MBTT.Mod=Режим:
+GT5U.MBTT.Air=Требуется доступ к воздуху
